@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9e131dd-953b-48c3-bc6e-26b96e1d7fa4" name="TTBackend">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="192.168.56.113" port="22" sshConfigId="3887cb8a-5856-45f7-be1b-ffbb3b3b4472" sshConfig="terry@192.168.56.113:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

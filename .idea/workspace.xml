@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0dc0313-1394-491a-a3f4-7e815a03920c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/TechnologyTodayAPI/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/composer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/TechnologyTodayAPI/vendor/psr/container" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2GP6Ae6NbLTvt7Rcl9X6QvnDjMz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "/home/terry/Documents/GitHub/TechnologyToday_Back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0dc0313-1394-491a-a3f4-7e815a03920c" name="Changes" comment="" />
+      <created>1666277729675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666277729675</updated>
+      <workItem from="1666277731819" duration="2326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
